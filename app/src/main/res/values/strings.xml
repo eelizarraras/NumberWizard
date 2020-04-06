@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NumberWizard</string>
+    <string name="mail_labal">Number Wizard</string>
+    <string name="down_btn">-</string>
+    <string name="restart_btn">Restart</string>
+    <string name="up_btn">+</string>
+    <string name="right_btn">Right</string>
+    <string name="result_txv"></string>
+    <string name="instructions"></string>
+    <string name="message"></string>
+</resources>
